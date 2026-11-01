@@ -3,5 +3,5 @@
 // build falhar com "no longer required for Kotlin support since AGP 9.0".
 // Quem escolhe a versão do Kotlin agora é o AGP.
 plugins {
-    id("com.android.application") version "9.3.2" apply false
+    id("com.android.application") version "9.5.0" apply false
 }
